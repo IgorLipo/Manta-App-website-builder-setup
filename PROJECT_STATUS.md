@@ -3,7 +3,7 @@
 **Last Updated:** 2026-03-19
 **Repo:** https://github.com/IgorLipo/Manta-App-website-builder-setup
 **Branch:** main
-**Last Commit:** a20e544 `feat: complete scaffold across all 3 apps`
+**Last Commit:** f2a1372 `fix: replace Clerk auth with proper custom JWT`
 
 ---
 
